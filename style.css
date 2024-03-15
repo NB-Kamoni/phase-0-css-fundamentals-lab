@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+a:link {
+  color: blue;
+}
+a:visited {
+  color: purple;
+}
+h1 {
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+section#featured-property {
+  text-align: center;  
+}
+section#details {
+  background-color: red;
+  display: flex;
+  justify-content: space-evenly;
+}
